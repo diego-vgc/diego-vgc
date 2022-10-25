@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Diego
+- 👀 I’m a math-science enthusiast and a self taught python developer
+- 🌱 I’m currently learning mathemathics, specifically proof-writing
+- 📫 For inquiries, email me at diegovegayt12@gmail.com
